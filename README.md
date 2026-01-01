@@ -3,7 +3,10 @@
 INSPECTRA is an **AI-assisted home and building inspection workspace** built using **Snowflake** and **Streamlit**. The tool helps identify structural, electrical, and finishing defects in residential properties using explainable AI logic, providing actionable insights for homeowners, banks, and regulators.
 
 
-https://github.com/user-attachments/assets/4f5364b3-117f-4544-9733-95a920c36c31
+
+https://github.com/user-attachments/assets/3d896a8c-a8f3-41c1-b04f-aef6a28c4cdc
+
+
 ---
 
 ## **Key Features**
